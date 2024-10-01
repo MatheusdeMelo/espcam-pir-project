@@ -3,14 +3,14 @@ Project with EspCam (using MicroPython), PIR sensor and servo for represents a r
 
 ## Directories Organization
 ```bash
-firmwares/ #store EspCam firmwares
-.tool-versions #store languages (Python) versions
+firmwares/      #store EspCam firmwares
+.tool-versions  #store languages (Python) versions
 alert_image.jpg #example image
-boot.py #file with code that runs in all boots
-cam.py #file with test camera code
-net.py #file with main code
-servo-motor.py #file with test servo code
-umail.py #file that config umail library
+boot.py         #file with code that runs in all boots
+cam.py          #file with test camera code
+net.py          #file with main code
+servo-motor.py  #file with test servo code
+umail.py        #file that config umail library
 ```
 
 ## Main Code
