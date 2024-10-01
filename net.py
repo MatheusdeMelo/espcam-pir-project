@@ -8,10 +8,10 @@ import camera
 ssid = "Matheus A22"
 wf_pass = "speaker22"
 
-sender_email = 'contaefootballalvaro@gmail.com'
-sender_name = 'CONTA EFOOTBALL' #sender name
-sender_app_password = 'bhooxaxgswjpmykz'
-recipient_email = ['alvarokaueliramiranda007@gmail.com', 'matheusdemelopf@gmail.com']
+sender_email = 'your@gmail'
+sender_name = 'YOUR_NAME' #sender name
+sender_app_password = 'app_password'
+recipient_email = ['1@gmail.com', '2@gmail.com']
 email_subject ='EspCam Alert'
 
 text = "Olá! \nUm intruso foi capturado pelo EspCam.\nO próximo email consta com a foto do intruso!"
