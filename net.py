@@ -5,8 +5,8 @@ import ubinascii
 from machine import Pin,PWM
 import camera
 
-ssid = "Matheus A22"
-wf_pass = "speaker22"
+ssid = "ssid"
+wf_pass = "wifi_password"
 
 sender_email = 'your@gmail'
 sender_name = 'YOUR_NAME' #sender name
