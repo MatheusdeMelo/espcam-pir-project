@@ -13,7 +13,7 @@ servo-motor.py  #file with test servo code
 umail.py        #file that config umail library
 ```
 
-## Main Code
+## The Main Code
 The main code is stored in file **net.py** and can be splited in 3 fields: configuration, definition and application.
 
 ### 1- Configuration field
